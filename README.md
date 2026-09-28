@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe4ef,50:ffc2d9,100:ff9ec4&height=180&section=header&text=Hola,%20soy%20Lola%20%F0%9F%91%8B&fontSize=48&fontColor=5a1e3d&fontAlignY=45" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe4ef,50:ffc2d9,100:ff9ec4&height=180&section=header&text=Hola,%20soy%20Lola&fontSize=48&fontColor=5a1e3d&fontAlignY=45" width="100%" alt="header"/>
 
 <a href="https://github.com/loolittha">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F472B6&center=true&vCenter=true&width=520&lines=Estudiante+de+Ingenier%C3%ADa+en+inform%C3%A1tica" alt="Typing SVG" />
