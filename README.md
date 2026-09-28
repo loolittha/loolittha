@@ -13,8 +13,9 @@
 
 ## Sobre mí ;)
 
+- 🌷 Soy Lola, tengo 21 años y siempre me llamó la atención el por qué de las cosas en cuanto a la informática; ¿Qué hay detrás de una aplicación? ¿Cómo es
+  posible que al hacer un click ya aparezca una ventana?, así miles de preguntas y mi forma de resolverlas fue estudiar Ingeniería en Informática.
 - 🌱 Aprendiendo cada día y sumando herramientas nuevas
-- 💬 Si querés charlar o colaborar, ¡escribime!
 
 ---
 
