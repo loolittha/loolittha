@@ -11,14 +11,14 @@
 
 ---
 
-## 👩‍💻 Sobre mí
+## Sobre mí ;)
 
 - 🌱 Aprendiendo cada día y sumando herramientas nuevas
 - 💬 Si querés charlar o colaborar, ¡escribime!
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 <div align="center">
 
