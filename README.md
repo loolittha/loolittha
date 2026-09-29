@@ -13,9 +13,7 @@
 <div align="center">
 ## Sobre mí ;)
 
-- 🌷 Soy Lola, tengo 21 años y siempre me atrapó entender el porqué de las cosas en la informática: qué hay detrás de una aplicación o cómo un simple clic levanta todo un sistema. Para responder a esas miles de preguntas, decidí estudiar Ingeniería en Informática.
-- 🎮 Además de programar, armar y desarmar computadoras, me encantan los videojuegos
-- 🌱 Aprendiendo cada día y sumando herramientas nuevas
+🌷 Soy Lola, estudiante avanzada de **Ingeniería en Informática** apasionada por el desarrollo de software y la resolución de problemas. Disfruto explorar nuevas herramientas y me motiva aplicar mis conocimientos técnicos tanto en proyectos colaborativos como en iniciativas de enseñanza. 🌷
 
 </div>
 ---
@@ -38,9 +36,9 @@
 
 ---
 
-## Contacto
 
 <div align="center">
+## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lola-normandin-27473b350/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lola.normandin@gmail.com)
