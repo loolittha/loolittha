@@ -7,6 +7,8 @@
 </a>
 
 <br/>
+---
+<br/>
 
 ## 🌷 Sobre mí
 
@@ -28,7 +30,7 @@ Soy Lola, estudiante avanzada de **Ingeniería en Informática** apasionada por 
 
 <br/>
 
-## 💌 Contacto
+## ✉️ Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lola-normandin-27473b350/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lola.normandin@gmail.com)
