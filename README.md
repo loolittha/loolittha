@@ -10,14 +10,14 @@
 </div>
 
 ---
-
+<div align="center">
 ## Sobre mí ;)
 
-- 🌷 Soy Lola, tengo 21 años y siempre me llamó la atención el por qué de las cosas en cuanto a la informática; ¿Qué hay detrás de una aplicación? ¿Cómo es
-  posible que al hacer un click ya aparezca una ventana?, así miles de preguntas y mi forma de resolverlas fue estudiar Ingeniería en Informática.
+- 🌷 Soy Lola, tengo 21 años y siempre me atrapó entender el porqué de las cosas en la informática: qué hay detrás de una aplicación o cómo un simple clic levanta todo un sistema. Para responder a esas miles de preguntas, decidí estudiar Ingeniería en Informática.
 - 🎮 Además de programar, armar y desarmar computadoras, me encantan los videojuegos
 - 🌱 Aprendiendo cada día y sumando herramientas nuevas
 
+</div>
 ---
 
 ## Skills
