@@ -10,23 +10,39 @@
 
 ## 🌷 Sobre mí
 
-Soy Lola, estudiante avanzada de **Ingeniería en Informática** apasionada por el desarrollo de software y la resolución de problemas. Disfruto explorar nuevas herramientas y me motiva aplicar mis conocimientos técnicos tanto en proyectos colaborativos como en iniciativas de enseñanza.
+Soy Lola, estudiante avanzada de **Ingeniería en Informática** en la Universidad del Salvador, apasionada por el desarrollo de software. Disfruto explorar nuevas herramientas y me motiva aplicar mis conocimientos técnicos tanto en proyectos colaborativos como en iniciativas de enseñanza. 
+
+<br/>
+
+## 🚀 Proyectos
+
+**[Loot Burgers](https://lootburgers.vercel.app)** · [Código](https://github.com/loolittha/loot-burguers-web)
+<br/>
+Sitio web para un emprendimiento gastronómico en actividad: menú por categorías, contacto por WhatsApp e Instagram y cotización de eventos. Incluye integración con Google Maps Platform (Maps JavaScript API y Geocoding API) y geolocalización en el pedido.
+<br/>
+Hecho con Next.js, React y TypeScript, con apoyo de herramientas de IA. Publicado en Vercel.
+
+<br/>
+
+**[Sistema de gestión para barrio cerrado](https://github.com/laranothardt/proyecto-barrio-cerrado)**
+<br/>
+Sistema web con C#, ASP.NET y SQL Server que incluye autenticación con recuperación de contraseña, autorización de ingresos, escaneo de DNI y registro de movimientos.
 
 <br/>
 
 ## 🛠️ Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,nextjs,react,c,cs&perline=6" alt="skills" />
+<img src="https://skillicons.dev/icons?i=html,css,ts,nextjs,react,c,cs,dotnet,arduino&perline=9" alt="skills" />
 
 <br/><br/>
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Google Maps Platform](https://img.shields.io/badge/Google%20Maps%20Platform-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-24bfa5?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<br/>
 
 ## ✉️ Contacto
 
